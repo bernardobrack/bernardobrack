@@ -11,6 +11,6 @@ Participei do Boomtcamp do Santander Coders 2023 Backend Java, onde aprendi Spri
 Também, participei da 8a Onda de Cibereducacao da Cisco Networking Academy, onde aprendi bastante sobre Redes de Computadores, e como criar, proteger e gerenciar redes simples.
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, NextJS, SQL, PostgreSQL, Java...
+Java, Spring Boot, Spring WEB, Spring Data JPA, Javascript, HTML, CSS, NextJS, SQL, PostgreSQL, ...
 
 
